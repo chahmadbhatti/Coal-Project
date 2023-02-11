@@ -1,11 +1,6 @@
-Piano Sound Generation project
-
-Members:
-213009
-213024
-213047
+Piano Sound Generation project in python language using pygame
 
 
-Computer Organization & Assembly Language
-Engr. Aatka Ali
+Subject: Computer Organization & Assembly Language
+
 
